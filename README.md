@@ -1,5 +1,8 @@
-# Gru11a.github.io
-Gru11a
 
-Hola, mi nombre es Adrian 👋.
-![Cyber](https://github.com/user-attachments/assets/d444550e-4da9-4e55-93b3-234fc289c381)
+# Hola, mi nombre es Adrian 👋.
+
+##👋 Welcome to my site.
+Here I share 📚 learnings, 💻 projects, and 💡 reflections gathered throughout my career as a 👨‍💻 systems engineer, 🧪 QA specialist, and 🛡️ cybersecurity professional.
+You’ll also find content on other valuable topics 🌐, with the goal of giving back to the community 🤝 and supporting everyone’s professional and personal growth equally 🚀.
+
+
