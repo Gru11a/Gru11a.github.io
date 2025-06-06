@@ -1,5 +1,5 @@
 
-# Hola, mi nombre es Adrian 👋.
+# Hello, I'm Adrian 👋.
 
 ## Welcome to my site.
 Here I share 📚 learnings, 💻 projects, and 💡 reflections gathered throughout my career as a 👨‍💻 systems engineer, 🧪 QA specialist, and 🛡️ cybersecurity professional.
