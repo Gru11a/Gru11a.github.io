@@ -9,7 +9,7 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 ## Encuéntrame en:
 
 </br>
-[![Link](<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue">)](www.linkedin.com/in/adrian-trejos-calderon)
+(<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue">)](www.linkedin.com/in/adrian-trejos-calderon)
 </br>
 
 https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue
