@@ -9,6 +9,11 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 ## Encuéntrame en:
 
 </br>
+[![Link](<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue">)](www.linkedin.com/in/adrian-trejos-calderon)
+</br>
+
+https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue
+
 [![Link](https://img.shields.io/badge/Links-Adrian.39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](www.linkedin.com/in/adrian-trejos-calderon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/adrian-trejos-calderon)
 
