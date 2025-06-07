@@ -2,14 +2,19 @@
 # Hello, I'm Adrian 👋.
 
 ## Welcome to my site.
+
+![https://www.linkedin.com/in/adrian-trejos-calderon](ImagenReadme.png)
+
 Here I share 📚 learnings, 💻 projects, and 💡 reflections gathered throughout my career as a 👨‍💻 systems engineer, 🧪 QA specialist, and 🛡️ cybersecurity professional.
 You’ll also find content on other valuable topics 🌐, with the goal of giving back to the community 🤝 and supporting everyone’s professional and personal growth equally 🚀.
+
+
 
 
 ## Encuéntrame en:
 
 </br>
-(<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue">)](www.linkedin.com/in/adrian-trejos-calderon)
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue">(www.linkedin.com/in/adrian-trejos-calderon)
 </br>
 
 https://img.shields.io/badge/LinkedIn-Adrian%20Trejos-blue
