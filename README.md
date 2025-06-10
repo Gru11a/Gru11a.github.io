@@ -65,3 +65,25 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </tr>
 </table>
 
+## Lenguages
+
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://github.com/Gru11a/French/blob/master/Git-French.md">
+<img src="https://github.com/Gru11a/French/blob/master/French.png">
+</a>
+</td>
+<td>
+<a href="https://github.com/Gru11a/French/blob/master/Git-French.md">
+<img src="https://github.com/Gru11a/French/blob/master/French.png">
+</a>
+</td>
+<td>
+<a href="https://github.com/Gru11a/French/blob/master/Git-French.md">
+<img src="https://github.com/Gru11a/French/blob/master/French.png">
+</a>
+</td>
+</tr>
+</table>
