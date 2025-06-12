@@ -81,8 +81,8 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </a>
 </td>
 <td>
-<a href="https://github.com/Gru11a/French/blob/master/Git-French.md">
-<img src="https://github.com/Gru11a/French/blob/master/French.png">
+<a href="https://github.com/Gru11a/Chinese/blob/master/GIT-Chinese.md">
+<img src="https://github.com/Gru11a/Chinese/blob/master/Chinese.jpg">
 </a>
 </td>
 </tr>
