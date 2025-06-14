@@ -24,8 +24,8 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="https://github.com/Gru11a/SQL/blob/main/Git_SQL.md">
+<img src="https://github.com/Gru11a/SQL/blob/main/SQL.jpg">
 </a>
 </td>
 </tr>
