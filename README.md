@@ -43,7 +43,7 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 <td>
 
 
-</tr>
+
 </table>
 
 ## Lenguages
