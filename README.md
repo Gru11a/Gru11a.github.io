@@ -19,8 +19,8 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3UCZltG8iCY">
-<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
+<a href="https://github.com/Gru11a/Python/blob/main/GIT-Python.md">
+<img src="https://github.com/Gru11a/Python/blob/main/Python.jpg">
 </a>
 </td>
 <td>
