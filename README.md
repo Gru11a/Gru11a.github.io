@@ -38,9 +38,6 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 <td>
 <a href="https://github.com/Gru11a/Metasploit/blob/main/Git-Metasploit.md">
 <img src="https://github.com/Gru11a/Metasploit/blob/main/Metasploit.jpg">
-</a>
-</td>
-<td>
 
 
 
