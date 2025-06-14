@@ -41,26 +41,7 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </a>
 </td>
 <td>
-<a href="https://youtu.be/NJacVZx2fv8">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/_y9qQZXE24A">
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/mIVbUb7shE8">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/zFbTXe1yFGA">
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-</a>
+
 </td>
 </tr>
 </table>
