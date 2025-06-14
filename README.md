@@ -31,8 +31,8 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+<a href="https://github.com/Gru11a/Splunk/blob/main/Git-Splunk.md">
+<img src="https://github.com/Gru11a/Splunk/blob/main/splunk.jpg">
 </a>
 </td>
 <td>
