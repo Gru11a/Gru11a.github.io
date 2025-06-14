@@ -42,7 +42,7 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 </td>
 <td>
 
-</td>
+
 </tr>
 </table>
 
