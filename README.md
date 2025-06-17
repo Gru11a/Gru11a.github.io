@@ -38,13 +38,31 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 <td>
 <a href="https://github.com/Gru11a/Metasploit/blob/main/Git-Metasploit.md">
 <img src="https://github.com/Gru11a/Metasploit/blob/main/Metasploit.jpg">
+</table>
 
+## Tools
 
-
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://github.com/Gru11a/infra-sec-check">
+<img src="https://github.com/Gru11a/infra-sec-check/blob/main/Sec-Check.jpg">
+</a>
+</td>
+<td>
+<a href="https://github.com/Gru11a/offensive-scan-tool">
+<img src="https://github.com/Gru11a/offensive-scan-tool/blob/main/Scan_Tool.jpg">
+</a>
+</td>
+<td>
+<a href="https://github.com/Gru11a/ssh-detector">
+<img src="https://github.com/Gru11a/ssh-detector/blob/main/SSH%20Alert.jpg">
+</a>
+</td>
+</tr>
 </table>
 
 ## Lenguages
-
 
 <table style="width:100%">
 <tr>
