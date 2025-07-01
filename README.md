@@ -40,7 +40,6 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 <img src="https://github.com/Gru11a/Metasploit/blob/main/Metasploit.jpg">
 </a>
 </td>
-<tr>
 <td>
 <a href="https://github.com/Gru11a/Threat-Intelligence/blob/main/MITRE%20ATT%26CK.md">
 <img src="https://github.com/Gru11a/Threat-Intelligence/blob/main/Mitre.jpg">
