@@ -45,6 +45,13 @@ You’ll also find content on other valuable topics 🌐, with the goal of givin
 <img src="https://github.com/Gru11a/Threat-Intelligence/blob/main/Mitre.jpg">
 </a>
 </td>
+<tr>
+<td>
+<a href="https://github.com/Gru11a/Cybersecurity-Basics">
+<img src="https://github.com/Gru11a/Cybersecurity-Basics/blob/main/cybersecurity_basics.jpg">
+</a>
+</td>
+
 </table>
 
 ## Tools
